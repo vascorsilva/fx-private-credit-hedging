@@ -1,0 +1,31 @@
+## Friday 9th Jan. ##
+- Problem Framing
+- Background Reading
+    - Cashflow Performance Metrics
+    - Corporate Finance / Bullet Loans
+    - FX Hedging (Jessica James)
+
+## Saturday 10th Jan. ##
+- Code Session 1
+    - Global Variables
+    - Data Loader
+    - FX Simulator
+
+## Saturday 11th Jan. ##
+- Code Session 2
+    - Performance Metrics
+    - Risk Metrics
+
+## Thursday 15th Jan. ##
+- Code Session 3
+    - FX Hedging Forwards
+    - FX Hedging Options
+
+## Friday 16th Jan. ##
+- Code Sesion 4
+    - Main Script
+    - FX Hedging Options
+    
+## Saturday 17th Jan. ##
+- Report
+- README.md
