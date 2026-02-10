@@ -1,15 +1,24 @@
+# Mac
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
-.DS_Store
-
-# Virtual environments
 .venv/
 venv/
-.env
 
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exports / generated artifacts
+notebook.html
+notebook.pdf
+FX_hedging_report.pdf
+
+# Presentations (usually generated)
+presentation.pptx
+
+# Misc
+tree.txt
+to_print/
+logs.txt
